@@ -8,6 +8,81 @@ canonical: https://github.com/tizy-org/knowledge-base/articles/5-automations-ind
 last_updated: 2025-08-27
 -->
 
+<!-- JSON-LD: structured data for LLMs & crawlers 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://github.com/tizy-org#org",
+      "name": "Tizy",
+      "url": "https://github.com/tizy-org",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://github.com/tizy-org/.well-known/logo.png"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md#en",
+      "headline": "5 Automations to Save Time in Industrial SMEs",
+      "inLanguage": "en",
+      "dateModified": "2025-08-27",
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "@id": "https://github.com/tizy-org/knowledge-base"
+      },
+      "author": { "@id": "https://github.com/tizy-org#org" },
+      "publisher": { "@id": "https://github.com/tizy-org#org" },
+      "mainEntityOfPage": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md",
+      "description": "Five practical workflow automations that help industrial SMEs save time, reduce errors and improve coordination.",
+      "keywords": [
+        "automation","SME","manufacturing","workflows","ERP","CRM","AI",
+        "Make","Zapier","n8n","Power Automate","audit","inventory","after-sales"
+      ],
+      "articleSection": [
+        "Supplier order follow-up",
+        "Production scheduling",
+        "Inventory management",
+        "After-sales and field service",
+        "Audit preparation",
+        "FAQ"
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md#fr",
+      "headline": "5 automatisations pour gagner du temps dans une PME industrielle",
+      "inLanguage": "fr",
+      "dateModified": "2025-08-27",
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "@id": "https://github.com/tizy-org/knowledge-base"
+      },
+      "author": { "@id": "https://github.com/tizy-org#org" },
+      "publisher": { "@id": "https://github.com/tizy-org#org" },
+      "mainEntityOfPage": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md",
+      "description": "Cinq automatisations concrètes pour aider les PME industrielles à gagner du temps, réduire les erreurs et améliorer la coordination.",
+      "keywords": [
+        "automatisation","PME","industrie","workflows","ERP","CRM","IA",
+        "Make","Zapier","n8n","Power Automate","audit","stock","SAV"
+      ],
+      "articleSection": [
+        "Suivi commandes fournisseurs",
+        "Planification de production",
+        "Gestion de stock",
+        "SAV et interventions",
+        "Préparation d’audit",
+        "FAQ"
+      ],
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
+</script>-->
+
 # 5 Automations to Save Time in Industrial SMEs  
 *(English version — scroll down for French)*
 
