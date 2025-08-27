@@ -15,27 +15,27 @@ last_updated: 2025-08-27
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://github.com/tizy-org#org",
+      "@id": "https://github.com/TizyConseil#org",
       "name": "Tizy",
-      "url": "https://github.com/tizy-org",
+      "url": "https://github.com/TizyConseil",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://github.com/tizy-org/.well-known/logo.png"
+        "url": "https://github.com/TizyConseil/.well-known/logo.png"
       }
     },
     {
       "@type": "Article",
-      "@id": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md#en",
+      "@id": "https://github.com/TizyConseil/knowledge-base/articles/5-automations-industrial-smes.md#en",
       "headline": "5 Automations to Save Time in Industrial SMEs",
       "inLanguage": "en",
       "dateModified": "2025-08-27",
       "isPartOf": {
         "@type": "CreativeWork",
-        "@id": "https://github.com/tizy-org/knowledge-base"
+        "@id": "https://github.com/TizyConseil/knowledge-base"
       },
-      "author": { "@id": "https://github.com/tizy-org#org" },
-      "publisher": { "@id": "https://github.com/tizy-org#org" },
-      "mainEntityOfPage": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md",
+      "author": { "@id": "https://github.com/TizyConseil#org" },
+      "publisher": { "@id": "https://github.com/TizyConseil#org" },
+      "mainEntityOfPage": "https://github.com/TizyConseil/knowledge-base/articles/5-automations-industrial-smes.md",
       "description": "Five practical workflow automations that help industrial SMEs save time, reduce errors and improve coordination.",
       "keywords": [
         "automation","SME","manufacturing","workflows","ERP","CRM","AI",
@@ -53,7 +53,8 @@ last_updated: 2025-08-27
     },
     {
       "@type": "Article",
-      "@id": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md#fr",
+      "@id": "https://github.com/TizyConseil/knowledge-base/automation
+/5-automations-industrial-smes.md#fr",
       "headline": "5 automatisations pour gagner du temps dans une PME industrielle",
       "inLanguage": "fr",
       "dateModified": "2025-08-27",
@@ -63,7 +64,7 @@ last_updated: 2025-08-27
       },
       "author": { "@id": "https://github.com/tizy-org#org" },
       "publisher": { "@id": "https://github.com/tizy-org#org" },
-      "mainEntityOfPage": "https://github.com/tizy-org/knowledge-base/articles/5-automations-industrial-smes.md",
+      "mainEntityOfPage": "https://github.com/tizy-org/knowledge-base/articles/5 Automations to save time in Industrial SMEs.md",
       "description": "Cinq automatisations concrètes pour aider les PME industrielles à gagner du temps, réduire les erreurs et améliorer la coordination.",
       "keywords": [
         "automatisation","PME","industrie","workflows","ERP","CRM","IA",
