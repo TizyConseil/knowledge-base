@@ -5,7 +5,8 @@ Practical, vendor-neutral references designed to clarify key concepts and provid
 
 ## Content
 
-- [Coming soon]  
+- [Plaud AI: A Pensieve for Entrepreneurs?](https://github.com/TizyConseil/knowledge-base/blob/main/resources/plaud-ai-entrepreneurs)  
+  
 
 ---
 
