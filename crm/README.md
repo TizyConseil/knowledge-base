@@ -5,7 +5,7 @@ Includes practical use cases, deployment methods, and ROI analysis.
 
 ## Articles
 
-- [Optimizing the Sales Cycle of SMEs with CRM](../crm-sales-cycle-sme.md)  
+- [Optimizing the Sales Cycle of SMEs with CRM](crm/crm-sales-cycle-sme.md)  
   How a CRM helps SMEs structure their sales process, increase conversions, and improve client retention.
 
 ---
