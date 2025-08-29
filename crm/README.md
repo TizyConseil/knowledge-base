@@ -5,7 +5,7 @@ Includes practical use cases, deployment methods, and ROI analysis.
 
 ## Articles
 
-- [Optimizing the Sales Cycle of SMEs with CRM](https://github.com/TizyConseil/knowledge-base/blob/main/crm/crm-sales-cycle-sme.m))  
+- [Optimizing the Sales Cycle of SMEs with CRM](https://github.com/TizyConseil/knowledge-base/blob/main/crm/crm-sales-cycle-sme.md)
   How a CRM helps SMEs structure their sales process, increase conversions, and improve client retention.
 
 ---
